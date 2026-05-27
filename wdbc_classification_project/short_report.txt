@@ -1,0 +1,19 @@
+1. Which classifiers did you test?
+
+I tested Support vector machine, Decision tree, Kneighbors classifier, Random forest classifier.
+
+2. Which classifier gave the best accuracy?
+
+Both decision tree and Random forest scored the best accuracy that scored 1.0 in accuracy. 
+
+3. What does the confusion matrix show?
+
+Confusion matrix shows the predictions of the model. It especially highlights the correct and incorrect classifications.
+
+4. Was the model good at predicting both classes?
+
+Yes. It scored 1.0 in accuracy. It means that everything is seperated perfectly.
+
+5. Why is documentation important in an open-source ML project?
+
+It is difficult to understand a project by reading all the code. As projects become larger, the amount of code increases significantly. Therefore, documentation is important because it helps people understand the code without having to read every part of it.
